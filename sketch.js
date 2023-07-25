@@ -264,7 +264,7 @@ function mySliders(){
   cbox=createCheckbox('Sound ON/OFF',false)
   
   cbox.style("background","yellow")
-  cbox.position(155,120)
+  cbox.position(155,150)
   //cbox.changed(boxHandler)
   
   
